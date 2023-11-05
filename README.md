@@ -11,7 +11,6 @@ The Social Media App is a web-based platform that allows users to create posts, 
 ### Prerequisites
 - Python (3.6 or higher)
 - Django (3.2 or higher)
-- Other dependencies mentioned in requirements.txt
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/NamanK26/NewsFeed-project.git`
